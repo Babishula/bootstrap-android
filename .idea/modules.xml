@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/app/app1.iml" filepath="$PROJECT_DIR$/app/app1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/bootstrap-android.iml" filepath="$PROJECT_DIR$/bootstrap-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bootstrap-android.iml" filepath="$PROJECT_DIR$/.idea/modules/bootstrap-android.iml" />
     </modules>
   </component>
 </project>
