@@ -27,11 +27,6 @@
 
         <activity android:name="com.ssg.android.demo.SearchActivity" />
 
-        <activity android:name="com.ssg.android.demo.RedListActivity">
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.ssg.android.demo.HomeActivity" />
-        </activity>
 
 
     </application>
