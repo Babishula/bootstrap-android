@@ -4,6 +4,7 @@ import android.content.Intent;
 import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.util.Patterns;
 import android.view.View;
 import android.widget.EditText;
 import android.widget.LinearLayout;
@@ -77,7 +78,10 @@ public class LoginActivity extends AppCompatActivity {
             infoBar.show();
             return;
         }
+        if(Patterns.EMAIL_ADDRESS.matcher((CharSequence)loginInput).matches())
+        {
 
+        }
         if (Utils.isNullOrEmpty(passwordInput)) {
             infoBar = Snackbar.make(view, passwordRequired, Snackbar.LENGTH_LONG);
             infoBar.show();

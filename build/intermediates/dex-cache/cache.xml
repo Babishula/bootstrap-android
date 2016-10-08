@@ -205,7 +205,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.0"
-        sha1="3a5ea5fd5dfc3021b491107d25716cf71d74fd95">
+        sha1="dd004c219fa523477548405c6b6ce7fcb4bcb777">
         <dex dex="C:\Users\Max\Documents\GitHub\bootstrap-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f4fae6732db171c9dafa0663eb89d506bfd7e3f7\classes.dex" />
     </item>
     <item
@@ -259,7 +259,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.0"
-        sha1="656d6af315dc9b237db87680d1fa2788e2837f1a">
+        sha1="6759500e176e5fcd206afe2ffd4f646cade2c43c">
         <dex dex="C:\Users\Max\Documents\GitHub\bootstrap-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_9569b4c55f9efa6a49738e70d42c43963c8397de\classes.dex" />
     </item>
     <item
